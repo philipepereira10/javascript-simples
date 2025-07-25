@@ -5,7 +5,7 @@ Projetos com Javascript
 
  <a href="https://philipepereira10.github.io/javascript-simples/addeventlistenner/index.html"> Executar addeventlistenner JS</a>
 
- <a href="https://philipepereira10.github.io/javascript-simples/CalculadorSimples/modelo.html"> Executar CalculadorSimples JS</a> 
+ <a href="https://philipepereira10.github.io/javascript-simples/CalculadorSimples/index.html"> Executar CalculadorSimples JS</a> 
 
   <a href="https://philipepereira10.github.io/javascript-simples/contadorclique/index.html"> Executar Contador de Cliques JS</a> 
 
