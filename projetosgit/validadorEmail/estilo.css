@@ -1,0 +1,53 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15px Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.363);
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: ita;
+}
+
+.container {
+    text-align: center;
+    background: wheat;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    font-size: 1em;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#mensagem {
+    font-size: 3em;
+    margin-top: 20px;
+    font-weight: bold;
+}

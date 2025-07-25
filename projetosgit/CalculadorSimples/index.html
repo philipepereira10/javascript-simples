@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Simples</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Calculadora Simples</h1>
+        <h5> DOM + Funçóes  + Operadores</h5>
+    </header>
+    <section>
+   <div class="container">
+        <h1>Calculadora Simples</h1>
+        <input type="number" id="valor1" placeholder="Digite o primeiro numero">
+        <input type="number" id="valor2" placeholder="Digite o segundo numero">
+        
+
+        <div class="botoes">
+            <button onclick="calcular('+')">+</button>
+            <button onclick="calcular('-')">-</button>
+            <button onclick="calcular('*')">*</button>
+            <button onclick="calcular('/')">/</button>
+        </div>
+
+        <p id="resultado">Resultado: </p>
+   </div>
+   </section>
+
+    <footer>
+        <p>&copy; Philipe Santos</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
