@@ -5,9 +5,9 @@ Projetos com Javascript
 
  <a href="https://philipepereira10.github.io/javascript-simples/addeventlistenner/index.html"> Executar addeventlistenner JS</a>
 
- <a href="https://philipepereira10.github.io/javascript-simples/Horado[text](CalculadorSimples)DiaJS/modelo.html"> Executar CalculadorSimples JS</a> 
+ <a href="https://philipepereira10.github.io/javascript-simples/CalculadorSimples/modelo.html"> Executar CalculadorSimples JS</a> 
 
-  <a href="https://philipepereira10.github.io/javascript-simples/contadorclique(eventos+DOM)/index.html"> Executar Contador de Cliques JS</a> 
+  <a href="https://philipepereira10.github.io/javascript-simples/contadorclique/index.html"> Executar Contador de Cliques JS</a> 
 
   <a href="https://philipepereira10.github.io/javascript-simples/geradorfrases/index.html"> Executar Gerador de Frases JS</a> 
 
@@ -18,6 +18,3 @@ Projetos com Javascript
 <a href="https://philipepereira10.github.io/javascript-simples/temporizador/index.html"> Executar Temporizador JS</a> 
 
 <a href="https://philipepereira10.github.io/javascript-simples/validadorEmail/index.html"> Executar Validador Email JS</a> 
-
-
- 
