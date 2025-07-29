@@ -23,4 +23,4 @@ Projetos com Javascript
 
 <a href="https://philipepereira10.github.io/javascript-simples/quizperguntas/index.html"> Executar Quiz Perguntas (Condições + Estruturas de dados + DOM Dinâmico + lógica de pontuação) JS</a> 
 
-<a href="https://philipepereira10.github.io/javascript-simples/validadorEmail/index.html"> Executar Jogo da Adivinhação (loops + condicçóes + interação) JS</a> 
+<a href="https://philipepereira10.github.io/javascript-simples/jogoadivinhacao/index.html"> Executar Jogo da Adivinhação (loops + condicçóes + interação) JS</a> 
