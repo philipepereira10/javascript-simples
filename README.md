@@ -24,3 +24,9 @@ Projetos com Javascript
 <a href="https://philipepereira10.github.io/javascript-simples/quizperguntas/index.html"> Executar Quiz Perguntas (Condições + Estruturas de dados + DOM Dinâmico + lógica de pontuação) JS</a> 
 
 <a href="https://philipepereira10.github.io/javascript-simples/jogoadivinhacao/index.html"> Executar Jogo da Adivinhação (loops + condicçóes + interação) JS</a> 
+
+<a href="https://philipepereira10.github.io/javascript-simples/formulariovalidacao/index.html"> Executar Formulário Validação (If + Regex + trim, array, DOM) JS</a> 
+
+
+<a href="https://philipepereira10.github.io/javascript-simples/galeriafiltro/index.html"> Executar JGaleriaFiltro (Array + DOM + Funções) JS</a> 
+
