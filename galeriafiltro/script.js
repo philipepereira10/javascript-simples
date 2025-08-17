@@ -11,6 +11,7 @@ const imagens = [
 
 
 //Elementos 
+
 const galeria = document.getElementById("galeria");
 const botoes = document.querySelectorAll("#botoes-categorias button");
 
